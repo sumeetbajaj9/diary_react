@@ -10,6 +10,9 @@ class App extends Component {
           <div className="form-group">
             <input type="text" name="title" className="form-control no-border" placeholder="Title" required />
           </div>
+           <div className="form-group">
+            <input type="text" name="title" className="form-control no-border" placeholder="Title" required />
+          </div>
           <div className="form-group">
             <textarea type="text" name="body" className="form-control no-border" placeholder="Body" required />
           </div>
